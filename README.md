@@ -117,6 +117,8 @@ This notebook explores mental wellness using real data and smart AI-style prompt
 [📂 View Project 4 Notebook](./karmonic_project4_prompt_playground.ipynb)
 ---
 
+---
+
 # 🧑‍💻 Project 5 – Remote Work Burnout Analyzer
 
 This project explores the impact of remote work on mental and physical health using real survey data.
@@ -151,8 +153,6 @@ This project blends remote work data with mindfulness metrics, showing patterns 
 
 > ✨ Built with curiosity and empathy by **Karmonic**, at the intersection of wellness, data, and AI.
 
-
-📂 [View the Notebook](Project 5-Remote Work Burnout Analyzer.ipynb)
 
 ## 🚀 What’s Next?
 
