@@ -50,7 +50,8 @@ Analyzes and compares musical characteristics (genre, energy, valence, popularit
 - Visualizations with Seaborn and Matplotlib
 - Insights like: “Which genre has higher average energy?”
 
-[📂 View Project 1 & 2 Notebook](./EDM%20vs%20Spiritual%20Music-%20A%20Popularity%20Analysis.ipynb)
+[📂 View Project 1 & 2 Notebook](./Project%201%20and%202%20EDM%20vs%20Spiritual%20Music-%20A%20Popularity%20Analysis%20.ipynb)
+
 
 ---
 # 🎧 Project 3: 🤖 AI Prompt Library for Data Analysts (by Karmonic)
