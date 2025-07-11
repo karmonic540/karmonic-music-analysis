@@ -10,7 +10,7 @@ This project explores **EDM and spiritual music trends** using real Spotify trac
 
 ## 📁 Files Included
 - `analysis.ipynb` – Notebook with all code & charts
-- `spotify_tracks.csv` – Raw data from Kaggle
+- `dataset.csv` – Raw data from spotify tracks data from Kaggle
 - `bar_chart.png` (optional) – Exported plot image
 
 ## 📊 Sample Visualization
