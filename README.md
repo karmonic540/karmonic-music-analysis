@@ -152,7 +152,7 @@ This project blends remote work data with mindfulness metrics, showing patterns 
 > ✨ Built with curiosity and empathy by **Karmonic**, at the intersection of wellness, data, and AI.
 
 
-📂 [View the Notebook](./karmonic_project5_csv_whisperer.ipyn)
+📂 [View the Notebook](Project 5-Remote Work Burnout Analyzer.ipynb)
 
 ## 🚀 What’s Next?
 
