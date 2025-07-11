@@ -15,7 +15,8 @@ This project explores **EDM and spiritual music trends** using real Spotify trac
 
 ## 📊 Sample Visualization
 
-*(You can upload your chart image and embed it like below)*
+<img width="733" height="534" alt="image" src="https://github.com/user-attachments/assets/ec07e826-a216-47c6-960c-5a8e365e167f" />
+
 
 ![Genre Popularity Bar Chart](bar_chart.png)
 
@@ -32,6 +33,12 @@ This project explores the emotional qualities of music using Spotify audio featu
 - Compared genres like **EDM, trance, meditation, and spiritual**
 - Analyzed **danceability, energy, and valence**
 - Visualized relationships using **bar charts and scatter plots**
+
+## 📊 Sample Visualization
+
+<img width="1130" height="534" alt="image" src="https://github.com/user-attachments/assets/453de375-4f08-46bb-b2a3-9d9eae621293" />
+
+<img width="1028" height="582" alt="image" src="https://github.com/user-attachments/assets/8bcaed72-076a-4bc6-b7b0-c2ccbcfc9d8a" />
 
 > Tools: Python, pandas, matplotlib, Jupyter
 
