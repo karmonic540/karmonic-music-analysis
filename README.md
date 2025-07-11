@@ -1,4 +1,8 @@
-# 🎧 Project 1 & 2 – EDM vs Spiritual Music: A Popularity Analysis
+🎯 **Welcome to Karmonic Projects!** Here, data analytics, AI, music, and wellness intersect to drive curiosity, creativity, and clarity. Dive in and explore the blend of analytics and art.
+
+## 🎧 Project 1 & 2 – EDM vs Spiritual Music: A Popularity Analysis
+...
+**Key Insight**: EDM showed significantly higher popularity and danceability, while spiritual tracks scored higher in valence and calmness, highlighting differing emotional appeals.
 
 This project explores **EDM and spiritual music trends** using real Spotify track data.
 
@@ -16,7 +20,8 @@ This project explores **EDM and spiritual music trends** using real Spotify trac
 ## 📊 Sample Visualization
 
 <img width="733" height="534" alt="image" src="https://github.com/user-attachments/assets/ec07e826-a216-47c6-960c-5a8e365e167f" />
-
+![Genre Popularity Bar Chart](bar_chart.png)  
+*Fig 1: EDM genres outshine spiritual genres in popularity metrics.*
 
 ![Genre Popularity Bar Chart](bar_chart.png)
 
@@ -40,6 +45,7 @@ This project explores the emotional qualities of music using Spotify audio featu
 
 <img width="1028" height="582" alt="image" src="https://github.com/user-attachments/assets/8bcaed72-076a-4bc6-b7b0-c2ccbcfc9d8a" />
 
+📂 [**View Project Notebook**](./Project%201%20and%202%20EDM%20vs%20Spiritual%20Music-%20A%20Popularity%20Analysis%20.ipynb)
 > Tools: Python, pandas, matplotlib, Jupyter
 
 Analyzes and compares musical characteristics (genre, energy, valence, popularity) between EDM and spiritual music using Spotify-style data.
@@ -155,6 +161,7 @@ This project blends remote work data with mindfulness metrics, showing patterns 
 
 > ✨ Built with curiosity and empathy by **Karmonic**, at the intersection of wellness, data, and AI.
 
+**keywords:** AI music analytics, EDM Spotify analysis, remote work burnout analytics, AI Prompt Library.
 
 ## 🚀 What’s Next?
 
