@@ -1,4 +1,4 @@
-# 🎧 Project 1 Karmonic Music Data Analysis
+# 🎧 Project 1 & 2 – EDM vs Spiritual Music: A Popularity Analysis
 
 This project explores **EDM and spiritual music trends** using real Spotify track data.
 
@@ -41,6 +41,16 @@ This project explores the emotional qualities of music using Spotify audio featu
 <img width="1028" height="582" alt="image" src="https://github.com/user-attachments/assets/8bcaed72-076a-4bc6-b7b0-c2ccbcfc9d8a" />
 
 > Tools: Python, pandas, matplotlib, Jupyter
+
+Analyzes and compares musical characteristics (genre, energy, valence, popularity) between EDM and spiritual music using Spotify-style data.
+
+🔍 Features:
+- Data filtering by genre
+- Mean popularity + mood comparison
+- Visualizations with Seaborn and Matplotlib
+- Insights like: “Which genre has higher average energy?”
+
+[📂 View Project 1 & 2 Notebook](./EDM%20vs%20Spiritual%20Music-%20A%20Popularity%20Analysis.ipynb)
 
 ---
 # 🎧 Project 3: 🤖 AI Prompt Library for Data Analysts (by Karmonic)
