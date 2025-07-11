@@ -1,4 +1,4 @@
-# 🎧 Project 2 Karmonic Music Data Analysis
+# 🎧 Project 1 Karmonic Music Data Analysis
 
 This project explores **EDM and spiritual music trends** using real Spotify track data.
 
@@ -43,6 +43,66 @@ This project explores the emotional qualities of music using Spotify audio featu
 > Tools: Python, pandas, matplotlib, Jupyter
 
 ---
+# 🎧 Project 3: 🤖 AI Prompt Library for Data Analysts (by Karmonic)
+
+A curated, ready-to-use library of AI prompt templates built for:
+
+- 📊 Data analysts
+- 💼 Job seekers
+- 🎧 Music data lovers
+- 🧠 AI-powered coders
+
+This is not a tool. It’s your **AI-powered thinking companion.**  
+Use these prompts in ChatGPT, Claude, Gemini, or Copilot to explore datasets, clean data, prepare for interviews, or even recommend music with AI.
+
+---
+
+## 📦 What's Inside
+
+### 📊 1. Data Analysis Prompts  
+- Explore and summarize any dataset  
+- Visualize patterns between variables
+
+### 💼 2. Job Application Prompts  
+- Customize your resume with AI  
+- Practice STAR interview questions
+
+### 🎧 3. Music + AI Prompts  
+- Analyze Spotify-style track data  
+- Recommend music based on emotion
+
+### 🧠 4. AI Coding Helper Prompts  
+- Clean a DataFrame like a pro  
+- Ask AI to explain Python code line by line
+
+---
+
+## 🧠 Why This Project?
+
+As AI becomes more powerful, knowing *how to prompt it* is becoming a superpower.  
+This library helps you become a smarter **AI collaborator** — not just a user.
+
+It’s built by **Karmonic** — a data-driven creator brand at the intersection of music, AI, and curiosity.
+
+---
+
+## 🔗 View the Prompt Library
+
+[📂 Click here to view the full prompt list](./ai_prompt_library.md)
+
+---
+
+## 🚀 What’s Next?
+
+I’m currently expanding this into:
+
+- A Jupyter-based **Prompt Playground**
+- An interactive **AI assistant**
+- More industry-specific prompt sets
+
+Feel free to ⭐️ star the repo, clone it, remix it, or send in new prompt ideas!
+
+> Built with curiosity, caffeine ☕, and Karmonic vibes 🎧
 
 🔗 **Created by Akshay (a.k.a. Karmonic)**  
 Feel free to share your thoughts or remix the code for your own data explorations!
