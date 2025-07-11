@@ -113,7 +113,24 @@ This notebook explores mental wellness using real data and smart AI-style prompt
 - Real-world wellness insight: stress, support systems, and screen time
 
 🧘 Built by Karmonic — blending mindfulness, data, and curiosity.
+
 [📂 View Project 4 Notebook](./karmonic_project4_prompt_playground.ipynb)
+## 🧠 Project 5 – Remote Work Burnout Analyzer (Prompt-Driven Notebook)
+
+This notebook explores the impact of remote work on burnout, work-life balance, and social isolation using real-world survey data from June 2025.
+
+🧰 Built with:
+- `pandas` for data manipulation
+- `seaborn` and `matplotlib` for visualizations
+- Prompt-style markdown for explainable insights
+
+📊 Key Features:
+- 🔥 Burnout levels by job role and work arrangement
+- ⏱️ Correlation between hours worked and stress
+- ⚖️ Impact of work-life balance on burnout
+- 💬 AI-style prompts throughout the notebook to guide analysis
+
+📂 [View the Notebook](./karmonic_project5_csv_whisperer.ipyn_)
 
 ## 🚀 What’s Next?
 
