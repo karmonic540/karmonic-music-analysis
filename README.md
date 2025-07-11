@@ -91,6 +91,18 @@ It’s built by **Karmonic** — a data-driven creator brand at the intersection
 [📂 Click here to view the full prompt list](./ai_prompt_library.md)
 
 ---
+## 🤖 Project 4 – AI Prompt Playground (Spiritual Wellness Edition)
+
+This notebook explores mental wellness using real data and smart AI-style prompts.
+
+✨ Features:
+- Prompt-powered questions like “Does sleep affect stress?”
+- Converted categorical stress to numeric values for analysis
+- Bar charts and scatter plots built with Seaborn
+- Real-world wellness insight: stress, support systems, and screen time
+
+🧘 Built by Karmonic — blending mindfulness, data, and curiosity.
+[📂 View Project 4 Notebook](./karmonic_project4_prompt_playground.ipynb)
 
 ## 🚀 What’s Next?
 
