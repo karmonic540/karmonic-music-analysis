@@ -115,20 +115,42 @@ This notebook explores mental wellness using real data and smart AI-style prompt
 🧘 Built by Karmonic — blending mindfulness, data, and curiosity.
 
 [📂 View Project 4 Notebook](./karmonic_project4_prompt_playground.ipynb)
-## 🧠 Project 5 – Remote Work Burnout Analyzer (Prompt-Driven Notebook)
+---
 
-This notebook explores the impact of remote work on burnout, work-life balance, and social isolation using real-world survey data from June 2025.
+# 🧑‍💻 Project 5 – Remote Work Burnout Analyzer
 
-🧰 Built with:
-- `pandas` for data manipulation
-- `seaborn` and `matplotlib` for visualizations
-- Prompt-style markdown for explainable insights
+This project explores the impact of remote work on mental and physical health using real survey data.
 
-📊 Key Features:
-- 🔥 Burnout levels by job role and work arrangement
-- ⏱️ Correlation between hours worked and stress
-- ⚖️ Impact of work-life balance on burnout
-- 💬 AI-style prompts throughout the notebook to guide analysis
+## 🔍 What I Did
+- Loaded and cleaned the dataset `Remote_Work_Health_Survey.csv`
+- Converted categorical burnout levels into numeric values
+- Analyzed relationships between:
+  - Burnout & screen time  
+  - Burnout & physical activity  
+  - Burnout & social support
+- Built clear visualizations to reveal insights
+
+## 📁 Files Included
+- `Project 5-Remote Work Burnout Analyzer.ipynb` – Jupyter Notebook with full analysis
+- `Remote_Work_Health_Survey.csv` – Source dataset
+
+## 📊 Sample Visualizations
+*Bar chart of burnout by screen time*  
+*Scatter plot of physical activity vs burnout*
+
+## 🤖 Tools Used
+- Python 3.10  
+- pandas, matplotlib, seaborn  
+- Jupyter Notebook
+
+## 🧘 Insights
+This project blends remote work data with mindfulness metrics, showing patterns between:
+- Work-life balance & burnout
+- Support systems & stress
+- Screen time & mental health
+
+> ✨ Built with curiosity and empathy by **Karmonic**, at the intersection of wellness, data, and AI.
+
 
 📂 [View the Notebook](./karmonic_project5_csv_whisperer.ipyn_)
 
