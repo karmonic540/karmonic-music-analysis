@@ -1,152 +1,65 @@
-\# 🤖 AI Prompt Library for Data Analysts (by Karmonic)
-
-
+# 🤖 AI Prompt Library for Data Analysts (by Karmonic)
 
 A curated list of prompt templates to help you think, build, and explore faster with AI.
 
+---
 
+## 📊 1. Data Analysis Prompts
+
+### 🔍 Load and Explore a Dataset
+```
+I have a CSV file with columns like {column_names}. Can you summarize this dataset, find missing values, and suggest possible relationships?
+```
+
+### 📈 Visualize Data
+```
+Given a DataFrame with {columns}, show me how to create a {plot_type} to compare {column1} and {column2}.
+```
 
 ---
 
+## 💼 2. Job Application Prompts
 
+### 📄 Resume Customization
+```
+Here’s my resume and here’s the job post. Rewrite my summary to match the job’s keywords and tone.
+```
 
-\## 📊 1. Data Analysis Prompts
-
-
-
-\### 🔍 Load and Explore a Dataset 
-
-
-
-markdown
-
-
-
-\### 📈 Visualize Data
-
-
-
-
+### 🧠 Behavioral Interview Practice
+```
+Ask me 5 STAR interview questions for a Data Analyst applying at a tech company. Then critique my answers.
+```
 
 ---
 
+## 🎧 3. Music + AI Prompts
 
+### 🎶 Analyze Track Data
+```
+Given this Spotify dataset CSV, show me which genres are most danceable, energetic, or popular.
+```
 
-\## 💼 2. Job Application Prompts
-
-
-
-\### 📄 Resume Customization
-
-
-
-\### 🧠 Behavioral Interview Practice
-
-
+### 🎛️ Recommend Music Based on Mood
+```
+Build a simple rule or model to recommend music based on valence, tempo, and energy scores.
+```
 
 ---
 
+## 🧠 4. AI Coding Helper Prompts
 
+### 🧹 Clean a DataFrame
+```
+Clean this DataFrame: handle missing values, convert date formats, and remove outliers.
+```
 
-\## 🎧 3. Music + AI Prompts
-
-
-
-\### 🎶 Analyze Track Data
-
-
-
-\### 🎛️ Recommend Music Based on Mood
-
-
-
----
-
-
-
-\## 🧠 4. AI Coding Helper Prompts
-
-
-
-\### 🧹 Clean a DataFrame
-
-
-
-\### 🐍 Explain Python Code
-
-
-
+### 🐍 Explain Python Code
+```python
 import pandas as pd
-
-df = pd.read\_csv("file.csv")
-
+df = pd.read_csv("file.csv")
 ...
-
-
-
-
+```
 
 ---
 
-
-
-\## 💾 Step 1C: Save and Close
-
-
-
-1\. Press \*\*Ctrl + S\*\* to save  
-
-2\. Close Notepad
-
-
-
-✅ Now your file is ready.
-
-
-
----
-
-
-
-\## 🔼 Step 2: Upload It to GitHub
-
-
-
-Open \*\*GitHub Desktop\*\* and do this:
-
-
-
-1\. You should see `ai\_prompt\_library.md` listed as a new file
-
-2\. In the \*\*Summary box\*\* at the bottom, write:
-
-
-
-3\. Click \*\*“Commit to main”\*\*
-
-4\. Click \*\*“Push origin”\*\*
-
-
-
-✅ Now it's live on GitHub!
-
-
-
----
-
-
-
-Let me know once it's pushed, and I’ll help you:
-
-\- Add it to your `README.md`
-
-\- Or write a perfect \*\*LinkedIn post\*\* to share this smart new project with the world  
-
-\- Or move forward to \*\*Project 4\*\* or AI assistant building
-
-
-
-You're officially writing the \*\*Karmonic Playbook of AI\*\* 🧠📘
-
-
-
+> Built with curiosity, caffeine ☕, and Karmonic vibes 🎧
