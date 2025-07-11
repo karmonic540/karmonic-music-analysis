@@ -140,6 +140,8 @@ This project explores the impact of remote work on mental and physical health us
 *Bar chart of burnout by screen time*  
 *Scatter plot of physical activity vs burnout*
 
+[📂 View Project 5 Notebook](./Project%205-Remote%20Work%20Burnout%20Analyzer.ipynb)
+
 ## 🤖 Tools Used
 - Python 3.10  
 - pandas, matplotlib, seaborn  
