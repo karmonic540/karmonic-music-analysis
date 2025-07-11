@@ -1,4 +1,4 @@
-# 🎧 Karmonic Music Data Analysis
+# 🎧 Project 2 Karmonic Music Data Analysis
 
 This project explores **EDM and spiritual music trends** using real Spotify track data.
 
@@ -24,6 +24,16 @@ This project explores **EDM and spiritual music trends** using real Spotify trac
 - Jupyter Notebook  
 - pandas, matplotlib  
 - Git + GitHub
+
+## 🎧 Project 2: Music Mood Analysis
+
+This project explores the emotional qualities of music using Spotify audio features:
+
+- Compared genres like **EDM, trance, meditation, and spiritual**
+- Analyzed **danceability, energy, and valence**
+- Visualized relationships using **bar charts and scatter plots**
+
+> Tools: Python, pandas, matplotlib, Jupyter
 
 ---
 
